@@ -10,7 +10,7 @@
             "description": "On fé le cockpit",
             "pieces": [
                 {
-                    "model": 1,
+                    "model": "1",
                     "color": "FEFEFE",
                     "position": {
                         "x": 1,
