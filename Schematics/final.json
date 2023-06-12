@@ -52,7 +52,7 @@
             "description": "step description",
             "pieces": [
                 {
-                    "model": "Part_88",
+                    "model": "3020",
                     "color": "FEFEFE",
                     "position": {
                         "x": -48.91467,
@@ -136,7 +136,7 @@
             "description": "step description",
             "pieces": [
                 {
-                    "model": "Part_61",
+                    "model": "11301",
                     "color": "FEFEFE",
                     "position": {
                         "x": -56.30419,
@@ -157,7 +157,7 @@
             "description": "step description",
             "pieces": [
                 {
-                    "model": "Part_61",
+                    "model": "11301",
                     "color": "FEFEFE",
                     "position": {
                         "x": -41.52516,
@@ -346,7 +346,7 @@
             "description": "step description",
             "pieces": [
                 {
-                    "model": "Part_88",
+                    "model": "3020",
                     "color": "FEFEFE",
                     "position": {
                         "x": -42.78437,
@@ -367,7 +367,7 @@
             "description": "step description",
             "pieces": [
                 {
-                    "model": "Part_67",
+                    "model": "15068",
                     "color": "FEFEFE",
                     "position": {
                         "x": -71.0832,
@@ -430,7 +430,7 @@
             "description": "step description",
             "pieces": [
                 {
-                    "model": "Part_88",
+                    "model": "3020",
                     "color": "FEFEFE",
                     "position": {
                         "x": -42.78437,
@@ -493,7 +493,7 @@
             "description": "step description",
             "pieces": [
                 {
-                    "model": "Part_67",
+                    "model": "15068",
                     "color": "FEFEFE",
                     "position": {
                         "x": -26.74614,
@@ -640,7 +640,7 @@
             "description": "step description",
             "pieces": [
                 {
-                    "model": "Part_101",
+                    "model": "30043",
                     "color": "FEFEFE",
                     "position": {
                         "x": -70.4536,
@@ -661,7 +661,7 @@
             "description": "step description",
             "pieces": [
                 {
-                    "model": "Part_101",
+                    "model": "30043",
                     "color": "FEFEFE",
                     "position": {
                         "x": -64.32329,
@@ -703,7 +703,7 @@
             "description": "step description",
             "pieces": [
                 {
-                    "model": "Part_101",
+                    "model": "30043",
                     "color": "FEFEFE",
                     "position": {
                         "x": -33.50606,
@@ -724,7 +724,7 @@
             "description": "step description",
             "pieces": [
                 {
-                    "model": "Part_101",
+                    "model": "30043",
                     "color": "FEFEFE",
                     "position": {
                         "x": -27.37575,
@@ -871,7 +871,7 @@
             "description": "step description",
             "pieces": [
                 {
-                    "model": "Part_115",
+                    "model": "50950",
                     "color": "FEFEFE",
                     "position": {
                         "x": -70.42046,
@@ -913,7 +913,7 @@
             "description": "step description",
             "pieces": [
                 {
-                    "model": "Part_115",
+                    "model": "50950",
                     "color": "FEFEFE",
                     "position": {
                         "x": -48.25194,
@@ -934,7 +934,7 @@
             "description": "step description",
             "pieces": [
                 {
-                    "model": "Part_3",
+                    "model": "11477",
                     "color": "FEFEFE",
                     "position": {
                         "x": -77.21351,
@@ -976,7 +976,7 @@
             "description": "step description",
             "pieces": [
                 {
-                    "model": "Part_86",
+                    "model": "11301",
                     "color": "FEFEFE",
                     "position": {
                         "x": -71.0832,
@@ -997,7 +997,7 @@
             "description": "step description",
             "pieces": [
                 {
-                    "model": "Part_3",
+                    "model": "11477",
                     "color": "FEFEFE",
                     "position": {
                         "x": -64.9529,
@@ -1081,7 +1081,7 @@
             "description": "step description",
             "pieces": [
                 {
-                    "model": "Part_115",
+                    "model": "50950",
                     "color": "FEFEFE",
                     "position": {
                         "x": -49.57743,
@@ -1144,7 +1144,7 @@
             "description": "step description",
             "pieces": [
                 {
-                    "model": "Part_3",
+                    "model": "11477",
                     "color": "FEFEFE",
                     "position": {
                         "x": -32.87646,
@@ -1165,7 +1165,7 @@
             "description": "step description",
             "pieces": [
                 {
-                    "model": "Part_115",
+                    "model": "50950",
                     "color": "FEFEFE",
                     "position": {
                         "x": -27.4089,
@@ -1186,7 +1186,7 @@
             "description": "step description",
             "pieces": [
                 {
-                    "model": "Part_86",
+                    "model": "11301",
                     "color": "FEFEFE",
                     "position": {
                         "x": -26.74615,
@@ -1228,7 +1228,7 @@
             "description": "step description",
             "pieces": [
                 {
-                    "model": "Part_3",
+                    "model": "11477",
                     "color": "FEFEFE",
                     "position": {
                         "x": -20.61585,
@@ -1291,7 +1291,7 @@
             "description": "step description",
             "pieces": [
                 {
-                    "model": "Part_128",
+                    "model": "88293",
                     "color": "FEFEFE",
                     "position": {
                         "x": -54.43194,
@@ -1312,7 +1312,7 @@
             "description": "step description",
             "pieces": [
                 {
-                    "model": "Part_128",
+                    "model": "88293",
                     "color": "FEFEFE",
                     "position": {
                         "x": -54.43195,
@@ -1543,7 +1543,7 @@
             "description": "step description",
             "pieces": [
                 {
-                    "model": "Part_2",
+                    "model": "11212",
                     "color": "FEFEFE",
                     "position": {
                         "x": -44.31899,
@@ -1648,7 +1648,7 @@
             "description": "step description",
             "pieces": [
                 {
-                    "model": "Part_3",
+                    "model": "11477",
                     "color": "FEFEFE",
                     "position": {
                         "x": -55.3486,
@@ -1669,7 +1669,7 @@
             "description": "step description",
             "pieces": [
                 {
-                    "model": "Part_52",
+                    "model": "52738",
                     "color": "FEFEFE",
                     "position": {
                         "x": -53.81602,
@@ -1690,7 +1690,7 @@
             "description": "step description",
             "pieces": [
                 {
-                    "model": "Part_3",
+                    "model": "11477",
                     "color": "FEFEFE",
                     "position": {
                         "x": -30.22426,
@@ -1711,7 +1711,7 @@
             "description": "step description",
             "pieces": [
                 {
-                    "model": "Part_52",
+                    "model": "52738",
                     "color": "FEFEFE",
                     "position": {
                         "x": -28.69169,
@@ -2005,7 +2005,7 @@
             "description": "step description",
             "pieces": [
                 {
-                    "model": "Part_48",
+                    "model": "6091",
                     "color": "FEFEFE",
                     "position": {
                         "x": -56.93583,
@@ -2047,7 +2047,7 @@
             "description": "step description",
             "pieces": [
                 {
-                    "model": "Part_48",
+                    "model": "6091",
                     "color": "FEFEFE",
                     "position": {
                         "x": -52.64462,
@@ -2173,7 +2173,7 @@
             "description": "step description",
             "pieces": [
                 {
-                    "model": "Part_48",
+                    "model": "6091",
                     "color": "FEFEFE",
                     "position": {
                         "x": -34.7673,
@@ -2236,7 +2236,7 @@
             "description": "step description",
             "pieces": [
                 {
-                    "model": "Part_48",
+                    "model": "6091",
                     "color": "FEFEFE",
                     "position": {
                         "x": -31.70215,
@@ -2509,7 +2509,7 @@
             "description": "step description",
             "pieces": [
                 {
-                    "model": "Part_57",
+                    "model": "98138d16",
                     "color": "FEFEFE",
                     "position": {
                         "x": -44.65866,
@@ -2614,7 +2614,7 @@
             "description": "step description",
             "pieces": [
                 {
-                    "model": "Part_57",
+                    "model": "98138d16",
                     "color": "FEFEFE",
                     "position": {
                         "x": -29.87964,
