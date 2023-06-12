@@ -1,0 +1,2781 @@
+{
+    "name": "Test schematic",
+    "picture": "mando",
+    "author": "Mecabricks User",
+    "description": "This is a test schematic.",
+    "version": "1.4.1",
+    "steps": [
+        {
+            "name": "Scene",
+            "description": "This is a step",
+            "pieces": [
+                {
+                    "model": "3958",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -48.91468,
+                        "y": 0.0,
+                        "z": 5.10231
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.19533271340198533,
+                        "z": 0.0,
+                        "w": 0.9807370346198914
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "2431",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -59.99894,
+                        "y": 3.2,
+                        "z": 9.70004
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.8316069570867146,
+                        "z": 0.0,
+                        "w": 0.5553646270019141
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "Part_88",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -48.91467,
+                        "y": 3.2,
+                        "z": 5.10231
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.8316069570867146,
+                        "z": 0.0,
+                        "w": 0.5553646270019141
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "2431",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -37.83041,
+                        "y": 3.2,
+                        "z": 0.50458
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.8316069570867146,
+                        "z": 0.0,
+                        "w": 0.5553646270019141
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "6143",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -51.97982,
+                        "y": 6.4,
+                        "z": -2.28719
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.19533271340198533,
+                        "z": 0.0,
+                        "w": 0.9807370346198914
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "6143",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -45.84951,
+                        "y": 6.4,
+                        "z": 12.49182
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.19533271340198533,
+                        "z": 0.0,
+                        "w": 0.9807370346198914
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "Part_61",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -56.30419,
+                        "y": 16.0,
+                        "z": 8.16746
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.8316069570867146,
+                        "z": 0.0,
+                        "w": 0.5553646270019141
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "Part_61",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -41.52516,
+                        "y": 16.0,
+                        "z": 2.03715
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.8316069570867146,
+                        "z": 0.0,
+                        "w": 0.5553646270019141
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "3023",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -67.38845,
+                        "y": 19.2,
+                        "z": 12.7652
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.8316069570867146,
+                        "z": 0.0,
+                        "w": 0.5553646270019141
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "3023",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -30.4409,
+                        "y": 19.2,
+                        "z": -2.56058
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.8316069570867146,
+                        "z": 0.0,
+                        "w": 0.5553646270019141
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "2780",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -51.97983,
+                        "y": 21.8,
+                        "z": -2.2872
+                    },
+                    "rotation": {
+                        "x": -0.39284653139920134,
+                        "y": -0.39255747987098016,
+                        "z": 0.587939309917431,
+                        "w": 0.5881305940169891
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "2780",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -45.84952,
+                        "y": 21.8,
+                        "z": 12.49182
+                    },
+                    "rotation": {
+                        "x": -0.39284653139920134,
+                        "y": -0.39255747987098016,
+                        "z": 0.587939309917431,
+                        "w": 0.5881305940169891
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "3023",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -67.38845,
+                        "y": 22.4,
+                        "z": 12.7652
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.8316069570867146,
+                        "z": 0.0,
+                        "w": 0.5553646270019141
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "3023",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -30.4409,
+                        "y": 22.4,
+                        "z": -2.56058
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.8316069570867146,
+                        "z": 0.0,
+                        "w": 0.5553646270019141
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "87079",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -55.04497,
+                        "y": 25.6,
+                        "z": -9.67671
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.19533271340198533,
+                        "z": 0.0,
+                        "w": 0.9807370346198914
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "3795",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -48.91468,
+                        "y": 25.6,
+                        "z": 5.10231
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.19533271340198533,
+                        "z": 0.0,
+                        "w": 0.9807370346198914
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "Part_88",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -42.78437,
+                        "y": 25.6,
+                        "z": 19.88133
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.19533271340198533,
+                        "z": 0.0,
+                        "w": 0.9807370346198914
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "Part_67",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -71.0832,
+                        "y": 28.8,
+                        "z": 14.29776
+                    },
+                    "rotation": {
+                        "x": 0.5880349186379262,
+                        "y": -0.3927020937841911,
+                        "z": 0.3927020937841911,
+                        "w": 0.5880349186379262
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "67329",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -67.38843,
+                        "y": 28.8,
+                        "z": 12.76519
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": -0.5553646270019141,
+                        "z": 0.0,
+                        "w": 0.8316069570867146
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "99206",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -56.30418,
+                        "y": 28.8,
+                        "z": 8.16747
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.9807370346198914,
+                        "z": 0.0,
+                        "w": -0.19533271340198533
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "Part_88",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -42.78437,
+                        "y": 28.8,
+                        "z": 19.88133
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.19533271340198533,
+                        "z": 0.0,
+                        "w": 0.9807370346198914
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "99206",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -41.52517,
+                        "y": 28.8,
+                        "z": 2.03715
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.9807370346198914,
+                        "z": 0.0,
+                        "w": -0.19533271340198533
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "67329",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -30.44093,
+                        "y": 28.8,
+                        "z": -2.56058
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.8316069570867146,
+                        "z": 0.0,
+                        "w": 0.5553646270019141
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "Part_67",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -26.74614,
+                        "y": 28.8,
+                        "z": -4.09315
+                    },
+                    "rotation": {
+                        "x": 0.3927020937841911,
+                        "y": 0.5880349186379262,
+                        "z": -0.5880349186379262,
+                        "w": 0.3927020937841911
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "63864",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -55.40121,
+                        "y": 32.0,
+                        "z": 20.7843
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.8316069570867146,
+                        "z": 0.0,
+                        "w": 0.5553646270019141
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "15573",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -47.38416,
+                        "y": 32.0,
+                        "z": 8.79791
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.19533271340198533,
+                        "z": 0.0,
+                        "w": 0.9807370346198914
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "3069",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -44.31899,
+                        "y": 32.0,
+                        "z": 16.18742
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.19533271340198533,
+                        "z": 0.0,
+                        "w": 0.9807370346198914
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "15573",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -41.25384,
+                        "y": 32.0,
+                        "z": 23.57693
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.19533271340198533,
+                        "z": 0.0,
+                        "w": 0.9807370346198914
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "63864",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -33.23267,
+                        "y": 32.0,
+                        "z": 11.58884
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.8316069570867146,
+                        "z": 0.0,
+                        "w": 0.5553646270019141
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "3710",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -71.0832,
+                        "y": 32.8,
+                        "z": 14.29776
+                    },
+                    "rotation": {
+                        "x": 0.5880349186379262,
+                        "y": -0.3927020937841911,
+                        "z": 0.3927020937841911,
+                        "w": 0.5880349186379262
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "Part_101",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -70.4536,
+                        "y": 32.8,
+                        "z": 5.37569
+                    },
+                    "rotation": {
+                        "x": -0.13812108623411223,
+                        "y": 0.6934858077405109,
+                        "z": -0.6934858077405109,
+                        "w": -0.13812108623411223
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "Part_101",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -64.32329,
+                        "y": 32.8,
+                        "z": 20.1547
+                    },
+                    "rotation": {
+                        "x": 0.6934858077405109,
+                        "y": 0.13812108623411223,
+                        "z": -0.13812108623411223,
+                        "w": 0.6934858077405109
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "2431",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -56.88408,
+                        "y": 32.8,
+                        "z": -14.11041
+                    },
+                    "rotation": {
+                        "x": 0.6934858077405109,
+                        "y": -0.13812108623411223,
+                        "z": -0.13812108623411223,
+                        "w": -0.6934858077405109
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "Part_101",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -33.50606,
+                        "y": 32.8,
+                        "z": -9.95008
+                    },
+                    "rotation": {
+                        "x": -0.13812108623411223,
+                        "y": 0.6934858077405109,
+                        "z": -0.6934858077405109,
+                        "w": -0.13812108623411223
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "Part_101",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -27.37575,
+                        "y": 32.8,
+                        "z": 4.82894
+                    },
+                    "rotation": {
+                        "x": 0.6934858077405109,
+                        "y": 0.13812108623411223,
+                        "z": -0.13812108623411223,
+                        "w": 0.6934858077405109
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "3710",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -26.74615,
+                        "y": 32.8,
+                        "z": -4.09315
+                    },
+                    "rotation": {
+                        "x": 0.3927020937841911,
+                        "y": 0.5880349186379262,
+                        "z": -0.5880349186379262,
+                        "w": 0.3927020937841911
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "3004",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -53.2411,
+                        "y": 35.2,
+                        "z": 15.55783
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": -0.5553646270019141,
+                        "z": 0.0,
+                        "w": 0.8316069570867146
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "11211",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -44.9486,
+                        "y": 35.2,
+                        "z": 25.1095
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.19533271340198533,
+                        "z": 0.0,
+                        "w": 0.9807370346198914
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "11211",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -43.68939,
+                        "y": 35.2,
+                        "z": 7.26533
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.9807370346198914,
+                        "z": 0.0,
+                        "w": -0.19533271340198533
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "3004",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -35.3969,
+                        "y": 35.2,
+                        "z": 16.81701
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": -0.5553646270019141,
+                        "z": 0.0,
+                        "w": 0.8316069570867146
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "3001",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -53.20589,
+                        "y": 36.8,
+                        "z": -5.243
+                    },
+                    "rotation": {
+                        "x": 0.6934858077405109,
+                        "y": -0.13812108623411223,
+                        "z": -0.13812108623411223,
+                        "w": -0.6934858077405109
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "Part_115",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -70.42046,
+                        "y": 40.79999,
+                        "z": -15.42429
+                    },
+                    "rotation": {
+                        "x": -0.3928050363902693,
+                        "y": -0.39260099065905935,
+                        "z": 0.5879662763872096,
+                        "w": 0.5881023068746829
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "3023",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -59.3362,
+                        "y": 40.79999,
+                        "z": -20.02202
+                    },
+                    "rotation": {
+                        "x": 0.6934858077405109,
+                        "y": -0.13812108623411223,
+                        "z": -0.13812108623411223,
+                        "w": -0.6934858077405109
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "Part_115",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -48.25194,
+                        "y": 40.79999,
+                        "z": -24.61976
+                    },
+                    "rotation": {
+                        "x": 0.5881023068746829,
+                        "y": -0.5879662763872096,
+                        "z": 0.39260099065905935,
+                        "w": -0.3928050363902693
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "Part_3",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -77.21351,
+                        "y": 40.8,
+                        "z": -0.48125
+                    },
+                    "rotation": {
+                        "x": 0.6934858077405109,
+                        "y": -0.6934858077405109,
+                        "z": -0.13812108623411223,
+                        "w": 0.13812108623411223
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "25269",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -75.46225,
+                        "y": 40.8,
+                        "z": 20.44464
+                    },
+                    "rotation": {
+                        "x": 0.5880349186379262,
+                        "y": -0.3927020937841911,
+                        "z": 0.3927020937841911,
+                        "w": 0.5880349186379262
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "Part_86",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -71.0832,
+                        "y": 40.8,
+                        "z": 14.29776
+                    },
+                    "rotation": {
+                        "x": -0.3927020937841911,
+                        "y": 0.5880349186379262,
+                        "z": 0.5880349186379262,
+                        "w": 0.3927020937841911
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "Part_3",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -64.9529,
+                        "y": 40.8,
+                        "z": 29.07678
+                    },
+                    "rotation": {
+                        "x": 0.13812108623411223,
+                        "y": 0.13812108623411223,
+                        "z": 0.6934858077405109,
+                        "w": 0.6934858077405109
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "3021",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -59.36933,
+                        "y": 40.8,
+                        "z": 0.77797
+                    },
+                    "rotation": {
+                        "x": 0.5880349186379262,
+                        "y": -0.5880349186379262,
+                        "z": 0.3927020937841911,
+                        "w": -0.3927020937841911
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "3710",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -58.11014,
+                        "y": 40.8,
+                        "z": -17.06621
+                    },
+                    "rotation": {
+                        "x": 0.6934858077405109,
+                        "y": -0.13812108623411223,
+                        "z": -0.13812108623411223,
+                        "w": -0.6934858077405109
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "3710",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -56.88408,
+                        "y": 40.8,
+                        "z": -14.11041
+                    },
+                    "rotation": {
+                        "x": 0.6934858077405109,
+                        "y": -0.13812108623411223,
+                        "z": -0.13812108623411223,
+                        "w": -0.6934858077405109
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "Part_115",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -49.57743,
+                        "y": 40.8,
+                        "z": 34.82437
+                    },
+                    "rotation": {
+                        "x": 0.3928050363902693,
+                        "y": -0.39260099065905935,
+                        "z": -0.5879662763872096,
+                        "w": 0.5881023068746829
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "3021",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -44.59032,
+                        "y": 40.8,
+                        "z": -5.35234
+                    },
+                    "rotation": {
+                        "x": 0.5880349186379262,
+                        "y": -0.5880349186379262,
+                        "z": 0.3927020937841911,
+                        "w": -0.3927020937841911
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "3023",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -38.49317,
+                        "y": 40.8,
+                        "z": 30.22663
+                    },
+                    "rotation": {
+                        "x": 0.6934858077405109,
+                        "y": 0.13812108623411223,
+                        "z": -0.13812108623411223,
+                        "w": 0.6934858077405109
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "Part_3",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -32.87646,
+                        "y": 40.8,
+                        "z": -18.87218
+                    },
+                    "rotation": {
+                        "x": 0.6934858077405109,
+                        "y": 0.6934858077405109,
+                        "z": -0.13812108623411223,
+                        "w": -0.13812108623411223
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "Part_115",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -27.4089,
+                        "y": 40.8,
+                        "z": 25.6289
+                    },
+                    "rotation": {
+                        "x": 0.5881023068746829,
+                        "y": 0.5879662763872096,
+                        "z": 0.39260099065905935,
+                        "w": 0.3928050363902693
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "Part_86",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -26.74615,
+                        "y": 40.8,
+                        "z": -4.09316
+                    },
+                    "rotation": {
+                        "x": 0.5880349186379262,
+                        "y": 0.3927020937841911,
+                        "z": 0.3927020937841911,
+                        "w": -0.5880349186379262
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "25269",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -22.36712,
+                        "y": 40.8,
+                        "z": -10.24003
+                    },
+                    "rotation": {
+                        "x": 0.3927020937841911,
+                        "y": 0.5880349186379262,
+                        "z": -0.5880349186379262,
+                        "w": 0.3927020937841911
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "Part_3",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -20.61585,
+                        "y": 40.8,
+                        "z": 10.68586
+                    },
+                    "rotation": {
+                        "x": 0.13812108623411223,
+                        "y": -0.13812108623411223,
+                        "z": 0.6934858077405109,
+                        "w": -0.6934858077405109
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "25269",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -19.30197,
+                        "y": 40.8,
+                        "z": -2.85052
+                    },
+                    "rotation": {
+                        "x": 0.13812108623411223,
+                        "y": -0.13812108623411223,
+                        "z": 0.6934858077405109,
+                        "w": -0.6934858077405109
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "25269",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -78.5274,
+                        "y": 40.80001,
+                        "z": 13.05513
+                    },
+                    "rotation": {
+                        "x": 0.6934858077405109,
+                        "y": -0.6934858077405109,
+                        "z": -0.13812108623411223,
+                        "w": 0.13812108623411223
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "Part_128",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -54.43194,
+                        "y": 44.79998,
+                        "z": -8.19881
+                    },
+                    "rotation": {
+                        "x": -0.13812108623411223,
+                        "y": 0.6934858077405109,
+                        "z": -0.6934858077405109,
+                        "w": -0.13812108623411223
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "Part_128",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -54.43195,
+                        "y": 44.79999,
+                        "z": -8.1988
+                    },
+                    "rotation": {
+                        "x": -0.3927020937841911,
+                        "y": -0.3927020937841911,
+                        "z": 0.5880349186379262,
+                        "w": 0.5880349186379262
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "26603",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -48.91673,
+                        "y": 44.79999,
+                        "z": 5.10316
+                    },
+                    "rotation": {
+                        "x": -0.13812108623411223,
+                        "y": 0.6934858077405109,
+                        "z": -0.6934858077405109,
+                        "w": -0.13812108623411223
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "4032",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -74.03901,
+                        "y": 44.8,
+                        "z": 15.52383
+                    },
+                    "rotation": {
+                        "x": 0.13812108623411223,
+                        "y": 0.13812108623411223,
+                        "z": 0.6934858077405109,
+                        "w": 0.6934858077405109
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "54200",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -68.92103,
+                        "y": 44.8,
+                        "z": 9.07043
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.19533271340198533,
+                        "z": 0.0,
+                        "w": 0.9807370346198914
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "99780",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -50.17593,
+                        "y": 44.8,
+                        "z": 22.94732
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": -0.5553646270019141,
+                        "z": 0.0,
+                        "w": 0.8316069570867146
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "3623",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -47.38414,
+                        "y": 44.8,
+                        "z": 8.7979
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.9807370346198914,
+                        "z": 0.0,
+                        "w": -0.19533271340198533
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "3024",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -41.25385,
+                        "y": 44.8,
+                        "z": 23.57694
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.8316069570867146,
+                        "z": 0.0,
+                        "w": 0.5553646270019141
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "26603",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -39.72126,
+                        "y": 44.8,
+                        "z": 27.27166
+                    },
+                    "rotation": {
+                        "x": 0.13812108623411223,
+                        "y": 0.6934858077405109,
+                        "z": 0.6934858077405109,
+                        "w": -0.13812108623411223
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "99780",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -35.39691,
+                        "y": 44.8,
+                        "z": 16.81702
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.8316069570867146,
+                        "z": 0.0,
+                        "w": 0.5553646270019141
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "54200",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -31.97349,
+                        "y": 44.8,
+                        "z": -6.25534
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.19533271340198533,
+                        "z": 0.0,
+                        "w": 0.9807370346198914
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "4032",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -23.79034,
+                        "y": 44.8,
+                        "z": -5.31922
+                    },
+                    "rotation": {
+                        "x": 0.13812108623411223,
+                        "y": -0.13812108623411223,
+                        "z": 0.6934858077405109,
+                        "w": -0.6934858077405109
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "Part_2",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -44.31899,
+                        "y": 48.0,
+                        "z": 16.1874
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.9807370346198914,
+                        "z": 0.0,
+                        "w": -0.19533271340198533
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "4073",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -70.45359,
+                        "y": 48.79998,
+                        "z": 5.37568
+                    },
+                    "rotation": {
+                        "x": 0.6934858077405109,
+                        "y": -0.13812108623411223,
+                        "z": -0.13812108623411223,
+                        "w": -0.6934858077405109
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "4073",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -33.50606,
+                        "y": 48.79998,
+                        "z": -9.95008
+                    },
+                    "rotation": {
+                        "x": 0.6934858077405109,
+                        "y": -0.13812108623411223,
+                        "z": -0.13812108623411223,
+                        "w": -0.6934858077405109
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "3023",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -53.20589,
+                        "y": 48.79999,
+                        "z": -5.243
+                    },
+                    "rotation": {
+                        "x": -0.13812108623411223,
+                        "y": 0.6934858077405109,
+                        "z": -0.6934858077405109,
+                        "w": -0.13812108623411223
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "25269",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -75.46224,
+                        "y": 48.8,
+                        "z": 20.44464
+                    },
+                    "rotation": {
+                        "x": 0.13812108623411223,
+                        "y": 0.13812108623411223,
+                        "z": 0.6934858077405109,
+                        "w": 0.6934858077405109
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "Part_3",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -55.3486,
+                        "y": 48.8,
+                        "z": 25.09293
+                    },
+                    "rotation": {
+                        "x": 0.6934858077405109,
+                        "y": -0.6934858077405109,
+                        "z": -0.13812108623411223,
+                        "w": 0.13812108623411223
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "Part_52",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -53.81602,
+                        "y": 48.8,
+                        "z": 28.78768
+                    },
+                    "rotation": {
+                        "x": 0.13812108623411223,
+                        "y": 0.13812108623411223,
+                        "z": 0.6934858077405109,
+                        "w": 0.6934858077405109
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "Part_3",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -30.22426,
+                        "y": 48.8,
+                        "z": 14.67141
+                    },
+                    "rotation": {
+                        "x": 0.6934858077405109,
+                        "y": 0.6934858077405109,
+                        "z": -0.13812108623411223,
+                        "w": -0.13812108623411223
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "Part_52",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -28.69169,
+                        "y": 48.8,
+                        "z": 18.36617
+                    },
+                    "rotation": {
+                        "x": 0.13812108623411223,
+                        "y": -0.13812108623411223,
+                        "z": 0.6934858077405109,
+                        "w": -0.6934858077405109
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "25269",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -22.36712,
+                        "y": 48.8,
+                        "z": -10.24004
+                    },
+                    "rotation": {
+                        "x": 0.6934858077405109,
+                        "y": 0.6934858077405109,
+                        "z": -0.13812108623411223,
+                        "w": -0.13812108623411223
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "25269",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -19.30197,
+                        "y": 48.8,
+                        "z": -2.85053
+                    },
+                    "rotation": {
+                        "x": 0.5880349186379262,
+                        "y": 0.3927020937841911,
+                        "z": 0.3927020937841911,
+                        "w": -0.5880349186379262
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "25269",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -78.5274,
+                        "y": 48.80001,
+                        "z": 13.05514
+                    },
+                    "rotation": {
+                        "x": -0.3927020937841911,
+                        "y": 0.5880349186379262,
+                        "z": 0.5880349186379262,
+                        "w": 0.3927020937841911
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "4070",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -54.77366,
+                        "y": 51.2,
+                        "z": 11.86304
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.9807370346198914,
+                        "z": 0.0,
+                        "w": -0.19533271340198533
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "4070",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -51.70851,
+                        "y": 51.2,
+                        "z": 19.25256
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": -0.5553646270019141,
+                        "z": 0.0,
+                        "w": 0.8316069570867146
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "4070",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -48.64336,
+                        "y": 51.2,
+                        "z": 26.64206
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.19533271340198533,
+                        "z": 0.0,
+                        "w": 0.9807370346198914
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "4070",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -47.38414,
+                        "y": 51.2,
+                        "z": 8.79789
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.9807370346198914,
+                        "z": 0.0,
+                        "w": -0.19533271340198533
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "3005",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -44.31899,
+                        "y": 51.2,
+                        "z": 16.18741
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.9807370346198914,
+                        "z": 0.0,
+                        "w": -0.19533271340198533
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "4070",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -41.25385,
+                        "y": 51.2,
+                        "z": 23.57691
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.19533271340198533,
+                        "z": 0.0,
+                        "w": 0.9807370346198914
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "4070",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -39.99464,
+                        "y": 51.2,
+                        "z": 5.73275
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.9807370346198914,
+                        "z": 0.0,
+                        "w": -0.19533271340198533
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "4070",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -36.92948,
+                        "y": 51.2,
+                        "z": 13.12226
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.8316069570867146,
+                        "z": 0.0,
+                        "w": 0.5553646270019141
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "4070",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -33.86433,
+                        "y": 51.2,
+                        "z": 20.51176
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.19533271340198533,
+                        "z": 0.0,
+                        "w": 0.9807370346198914
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "3024",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -57.56543,
+                        "y": 56.8,
+                        "z": 26.01246
+                    },
+                    "rotation": {
+                        "x": 0.39284653139920134,
+                        "y": -0.39255747987098016,
+                        "z": -0.587939309917431,
+                        "w": 0.5881305940169891
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "Part_48",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -56.93583,
+                        "y": 56.8,
+                        "z": 17.09038
+                    },
+                    "rotation": {
+                        "x": 0.6934858077405109,
+                        "y": -0.13812108623411223,
+                        "z": -0.13812108623411223,
+                        "w": -0.6934858077405109
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "3005",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -53.92535,
+                        "y": 56.8,
+                        "z": 20.17211
+                    },
+                    "rotation": {
+                        "x": 0.6934858077405109,
+                        "y": -0.6934858077405109,
+                        "z": -0.13812108623411223,
+                        "w": 0.13812108623411223
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "Part_48",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -52.64462,
+                        "y": 56.8,
+                        "z": 27.43568
+                    },
+                    "rotation": {
+                        "x": 0.6934858077405109,
+                        "y": 0.13812108623411223,
+                        "z": -0.13812108623411223,
+                        "w": 0.6934858077405109
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "63864",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -49.52975,
+                        "y": 56.8,
+                        "z": 3.62523
+                    },
+                    "rotation": {
+                        "x": -0.13812108623411223,
+                        "y": 0.6934858077405109,
+                        "z": -0.6934858077405109,
+                        "w": -0.13812108623411223
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "3024",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -48.30369,
+                        "y": 56.8,
+                        "z": 6.58105
+                    },
+                    "rotation": {
+                        "x": 0.5881305940169891,
+                        "y": -0.587939309917431,
+                        "z": 0.39255747987098016,
+                        "w": -0.39284653139920134
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "3023",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -44.02905,
+                        "y": 56.8,
+                        "z": 27.32634
+                    },
+                    "rotation": {
+                        "x": 0.6934858077405109,
+                        "y": 0.13812108623411223,
+                        "z": -0.13812108623411223,
+                        "w": 0.6934858077405109
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "3069",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -41.579,
+                        "y": 56.8,
+                        "z": 33.2388
+                    },
+                    "rotation": {
+                        "x": 0.6934858077405109,
+                        "y": 0.13812108623411223,
+                        "z": -0.13812108623411223,
+                        "w": 0.6934858077405109
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "3024",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -39.10824,
+                        "y": 56.8,
+                        "z": 28.74956
+                    },
+                    "rotation": {
+                        "x": -0.3927020937841911,
+                        "y": 0.3927020937841911,
+                        "z": 0.5880349186379262,
+                        "w": -0.5880349186379262
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "Part_48",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -34.7673,
+                        "y": 56.8,
+                        "z": 7.89493
+                    },
+                    "rotation": {
+                        "x": -0.13812108623411223,
+                        "y": 0.6934858077405109,
+                        "z": -0.6934858077405109,
+                        "w": -0.13812108623411223
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "3005",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -34.71264,
+                        "y": 56.8,
+                        "z": 12.20272
+                    },
+                    "rotation": {
+                        "x": 0.13812108623411223,
+                        "y": -0.13812108623411223,
+                        "z": 0.6934858077405109,
+                        "w": -0.6934858077405109
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "3070",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -31.71873,
+                        "y": 56.8,
+                        "z": 25.6844
+                    },
+                    "rotation": {
+                        "x": 0.6934858077405109,
+                        "y": 0.13812108623411223,
+                        "z": -0.13812108623411223,
+                        "w": 0.6934858077405109
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "Part_48",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -31.70215,
+                        "y": 56.8,
+                        "z": 15.28441
+                    },
+                    "rotation": {
+                        "x": 0.13812108623411223,
+                        "y": 0.6934858077405109,
+                        "z": 0.6934858077405109,
+                        "w": -0.13812108623411223
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "18646",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -53.20588,
+                        "y": 60.79998,
+                        "z": -5.243
+                    },
+                    "rotation": {
+                        "x": 0.6934858077405109,
+                        "y": -0.13812108623411223,
+                        "z": -0.13812108623411223,
+                        "w": -0.6934858077405109
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "32952",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -54.77365,
+                        "y": 60.8,
+                        "z": 11.86303
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": -0.5553646270019141,
+                        "z": 0.0,
+                        "w": 0.8316069570867146
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "22885",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -50.17593,
+                        "y": 60.8,
+                        "z": 22.94731
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": -0.5553646270019141,
+                        "z": 0.0,
+                        "w": 0.8316069570867146
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "32952",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -47.38414,
+                        "y": 60.8,
+                        "z": 8.79789
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.9807370346198914,
+                        "z": 0.0,
+                        "w": -0.19533271340198533
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "3005",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -44.31899,
+                        "y": 60.8,
+                        "z": 16.1874
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.19533271340198533,
+                        "z": 0.0,
+                        "w": 0.9807370346198914
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "32952",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -41.25385,
+                        "y": 60.8,
+                        "z": 23.57691
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.19533271340198533,
+                        "z": 0.0,
+                        "w": 0.9807370346198914
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "32952",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -39.99464,
+                        "y": 60.8,
+                        "z": 5.73274
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.8316069570867146,
+                        "z": 0.0,
+                        "w": 0.5553646270019141
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "22885",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -35.3969,
+                        "y": 60.8,
+                        "z": 16.81701
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.8316069570867146,
+                        "z": 0.0,
+                        "w": 0.5553646270019141
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "63864",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -50.14279,
+                        "y": 64.8,
+                        "z": 2.14734
+                    },
+                    "rotation": {
+                        "x": 0.6934858077405109,
+                        "y": -0.13812108623411223,
+                        "z": -0.13812108623411223,
+                        "w": -0.6934858077405109
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "3069",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -58.4684,
+                        "y": 68.79777,
+                        "z": 13.39559
+                    },
+                    "rotation": {
+                        "x": 0.13812108623411223,
+                        "y": 0.13812108623411223,
+                        "z": 0.6934858077405109,
+                        "w": 0.6934858077405109
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "3069",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -52.3381,
+                        "y": 68.79777,
+                        "z": 28.17464
+                    },
+                    "rotation": {
+                        "x": 0.13812108623411223,
+                        "y": 0.13812108623411223,
+                        "z": 0.6934858077405109,
+                        "w": 0.6934858077405109
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "15573",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -45.88472,
+                        "y": 68.79777,
+                        "z": 33.29262
+                    },
+                    "rotation": {
+                        "x": 0.5881305940169891,
+                        "y": 0.587939309917431,
+                        "z": 0.39255747987098016,
+                        "w": 0.39284653139920134
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "Part_57",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -44.65866,
+                        "y": 68.79777,
+                        "z": 36.24842
+                    },
+                    "rotation": {
+                        "x": 0.6934858077405109,
+                        "y": 0.13812108623411223,
+                        "z": -0.13812108623411223,
+                        "w": 0.6934858077405109
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "3069",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -38.49522,
+                        "y": 68.79777,
+                        "z": 30.22747
+                    },
+                    "rotation": {
+                        "x": 0.5881305940169891,
+                        "y": 0.587939309917431,
+                        "z": 0.39255747987098016,
+                        "w": 0.39284653139920134
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "3069",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -36.29989,
+                        "y": 68.79777,
+                        "z": 4.20017
+                    },
+                    "rotation": {
+                        "x": 0.6934858077405109,
+                        "y": 0.6934858077405109,
+                        "z": -0.13812108623411223,
+                        "w": -0.13812108623411223
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "15573",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -31.10569,
+                        "y": 68.79777,
+                        "z": 27.16231
+                    },
+                    "rotation": {
+                        "x": 0.5881515189878747,
+                        "y": 0.5879177358894615,
+                        "z": 0.39252607283751617,
+                        "w": 0.39287887278603056
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "3069",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -30.16958,
+                        "y": 68.79777,
+                        "z": 18.97918
+                    },
+                    "rotation": {
+                        "x": 0.6934858077405109,
+                        "y": 0.6934858077405109,
+                        "z": -0.13812108623411223,
+                        "w": -0.13812108623411223
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "Part_57",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -29.87964,
+                        "y": 68.79777,
+                        "z": 30.11812
+                    },
+                    "rotation": {
+                        "x": 0.6934858077405109,
+                        "y": 0.13812108623411223,
+                        "z": -0.13812108623411223,
+                        "w": 0.6934858077405109
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "60481",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -55.40326,
+                        "y": 68.8,
+                        "z": 20.78513
+                    },
+                    "rotation": {
+                        "x": 0.5880349186379262,
+                        "y": -0.3927020937841911,
+                        "z": 0.3927020937841911,
+                        "w": 0.5880349186379262
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "3021",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -48.91672,
+                        "y": 68.8,
+                        "z": 5.10314
+                    },
+                    "rotation": {
+                        "x": 0.6934858077405109,
+                        "y": -0.13812108623411223,
+                        "z": -0.13812108623411223,
+                        "w": -0.6934858077405109
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "3021",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -39.72128,
+                        "y": 68.8,
+                        "z": 27.27166
+                    },
+                    "rotation": {
+                        "x": 0.6934858077405109,
+                        "y": 0.13812108623411223,
+                        "z": -0.13812108623411223,
+                        "w": 0.6934858077405109
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "60481",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -33.23474,
+                        "y": 68.8,
+                        "z": 11.58968
+                    },
+                    "rotation": {
+                        "x": 0.3927020937841911,
+                        "y": 0.5880349186379262,
+                        "z": -0.5880349186379262,
+                        "w": 0.3927020937841911
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "63864",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -50.14278,
+                        "y": 72.8,
+                        "z": 2.14733
+                    },
+                    "rotation": {
+                        "x": 0.6934858077405109,
+                        "y": -0.13812108623411223,
+                        "z": -0.13812108623411223,
+                        "w": -0.6934858077405109
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "3021",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -45.85157,
+                        "y": 76.8,
+                        "z": 12.49264
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.19533271340198533,
+                        "z": 0.0,
+                        "w": 0.9807370346198914
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "3623",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -41.25385,
+                        "y": 76.8,
+                        "z": 23.57691
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.19533271340198533,
+                        "z": 0.0,
+                        "w": 0.9807370346198914
+                    }
+                }
+            ]
+        }
+    ]
+}
