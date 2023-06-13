@@ -1,0 +1,114 @@
+{
+    "name": "Test schematic (5)",
+    "picture": "mando",
+    "author": "Mecabricks User",
+    "description": "This is a test schematic.",
+    "version": "1.4.1",
+    "steps": [
+        {
+            "name": "Scene",
+            "description": "This is a step",
+            "pieces": [
+                {
+                    "model": "3958",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -48.91468,
+                        "y": 0.0,
+                        "z": 5.10231
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.19533271340198533,
+                        "z": 0.0,
+                        "w": 0.9807370346198914
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "2431",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -59.99894,
+                        "y": 3.2,
+                        "z": 9.70004
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.8316069570867146,
+                        "z": 0.0,
+                        "w": 0.5553646270019141
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "3020",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -48.91467,
+                        "y": 3.2,
+                        "z": 5.10231
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.8316069570867146,
+                        "z": 0.0,
+                        "w": 0.5553646270019141
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "2431",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -37.83041,
+                        "y": 3.2,
+                        "z": 0.50458
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.8316069570867146,
+                        "z": 0.0,
+                        "w": 0.5553646270019141
+                    }
+                }
+            ]
+        },
+        {
+            "name": "step",
+            "description": "step description",
+            "pieces": [
+                {
+                    "model": "6143",
+                    "color": "FEFEFE",
+                    "position": {
+                        "x": -51.97982,
+                        "y": 6.4,
+                        "z": -2.28719
+                    },
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 0.19533271340198533,
+                        "z": 0.0,
+                        "w": 0.9807370346198914
+                    }
+                }
+            ]
+        }
+    ]
+}
