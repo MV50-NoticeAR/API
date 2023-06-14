@@ -1,9 +1,9 @@
 {
-    "name": "Test schematic",
+    "name": "The Child",
     "picture": "demo.png",
-    "author": "Mecabricks User",
-    "description": "This is a test schematic.",
-    "version": "1.4.1",
+    "author": "LEGO",
+    "description": "Brickheadz, The Mandalorian & The Child",
+    "version": "1.0.0",
     "steps": [
         {
             "name": "Siège",
